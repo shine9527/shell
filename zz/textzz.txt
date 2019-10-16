@@ -1,0 +1,19 @@
+shell: line 01
+line 02: shell
+line 03: shshshell
+line 04: shhhhhell
+line 05: 3hell
+line 06: 192.168.161.3
+1.1.1.100
+line 07: sshell
+line 08: shelll
+line 09: sshheell
+line 10: printf and println
+line 11: sheell
+line 12: sheeell
+line 13: sheeeell
+line 14: sheeeeell
+line 15: sell
+line 16: shelelelellll
+line 17: selllhhh
+line 18: shl
